@@ -36,4 +36,21 @@
   <!-- EN: Royal title factor -->
   <RecruitmentValueFactorRoyal>Множитель знатного титула</RecruitmentValueFactorRoyal>
   
+      <!-- Permits tab -->
+  <TabPermits>Права</TabPermits>
+  <PermitsFromFaction>Права от {FACTION_name}</PermitsFromFaction>
+  <CurrentTitle>Текущий титул</CurrentTitle>
+  <UnusedPermits>Неиспользованные очки</UnusedPermits>
+  <ReturnAllPermits>Вернуть все права</ReturnAllPermits>
+  <NoPermitsToReturn>{PAWN_nameDef} не имеет прав для возврата.</NoPermitsToReturn>
+  <NotEnoughFavor>Возврат прав требует {FAVORCOST} {FAVOR}, но {PAWN_nameDef} имеет лишь {CURFAVOR}.</NotEnoughFavor>
+  <ReturnAllPermits_Desc>Вернуть все ранее выбранные права для этой фракции. Вы вернете все израсходованные очки и сможете их снова потратить.\n\nЭто действие стоит {BASEFAVORCOST} {FAVOR}, плюс стоимость сброса всех прав, которые в настоящее время находятся в режиме восстановления. Общая стоимость сейчас {FAVORCOST}.</ReturnAllPermits_Desc>
+  <ReturnAllPermits_Confirm>Вернуть все ранее выбранные права для {FACTION_name}?\n\nВы вернете все израсходованные очки и сможете их снова потратить.\n\nЭто действие стоит {BASEFAVORCOST} {FAVOR}, плюс стоимость сброса всех прав, которые в настоящее время находятся в режиме восстановления. Общая стоимость сейчас {FAVORCOST}.</ReturnAllPermits_Confirm>
+  <SwitchFaction_Desc>Смена фракции</SwitchFaction_Desc>
+  <AcceptPermit>Принять право</AcceptPermit>
+  <RequiresTitle>Требуемый титул: {0}</RequiresTitle>
+  <UpgradeFrom>Обновить с: {0}</UpgradeFrom>
+  <Cooldown>Восстановление</Cooldown>
+  <CooldownUseFavorCost>{HONOR} стоит, если используется во время перезарядки</CooldownUseFavorCost>
+  
 </LanguageData>
